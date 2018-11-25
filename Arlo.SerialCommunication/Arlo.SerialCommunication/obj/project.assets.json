@@ -893,11 +893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marek\\source\\repos\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\Arlo.SerialCommunication.csproj",
+      "projectUniqueName": "C:\\Users\\Marek\\Desktop\\Arlo\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\Arlo.SerialCommunication.csproj",
       "projectName": "Arlo.SerialCommunication",
-      "projectPath": "C:\\Users\\Marek\\source\\repos\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\Arlo.SerialCommunication.csproj",
+      "projectPath": "C:\\Users\\Marek\\Desktop\\Arlo\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\Arlo.SerialCommunication.csproj",
       "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marek\\source\\repos\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\obj\\",
+      "outputPath": "C:\\Users\\Marek\\Desktop\\Arlo\\Arlo.SerialCommunication\\Arlo.SerialCommunication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -9,3 +9,14 @@ C:\Users\Marek\source\repos\Arlo.SerialCommunication\Arlo.SerialCommunication\ob
 C:\Users\Marek\source\repos\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.pdb
 C:\Users\Marek\source\repos\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.dll
 C:\Users\Marek\source\repos\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.pdb
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.deps.json
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.runtimeconfig.json
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.runtimeconfig.dev.json
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.dll
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\bin\Debug\netcoreapp2.0\Arlo.SerialCommunication.pdb
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.AssemblyInfoInputs.cache
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.AssemblyInfo.cs
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.dll
+C:\Users\Marek\Desktop\Arlo\Arlo.SerialCommunication\Arlo.SerialCommunication\obj\Debug\netcoreapp2.0\Arlo.SerialCommunication.pdb

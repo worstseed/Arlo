@@ -14,7 +14,7 @@ namespace Arlo.SerialCommunication
 
         // Robot makes defined number of squares (372 for a full circle, 372/4 = 93 for 90 degrees).
         private const int NumberOfSquares = 4;
-        private const int WriteSpeed = 80;
+        private const int WriteSpeed = 20;
         public const int WriteDistance = 200;
         private const int WriteAngle = 93;
 
@@ -110,7 +110,8 @@ namespace Arlo.SerialCommunication
         // Read serial port, clear information, write to file.
         /* Output should look like:
          * MOVE 200 200 
-         * READ_MOVE 200 200         *
+         * READ_MOVE 200 200
+         *
          * TURN 93 
          * READ_TURN 92 -91
          * 
